@@ -1,0 +1,7 @@
+D:\day 6\Assesment 6\Assesment 6\bin\Debug\Assesment 6.exe.config
+D:\day 6\Assesment 6\Assesment 6\bin\Debug\Assesment 6.exe
+D:\day 6\Assesment 6\Assesment 6\bin\Debug\Assesment 6.pdb
+D:\day 6\Assesment 6\Assesment 6\obj\Debug\Assesment 6.csproj.AssemblyReference.cache
+D:\day 6\Assesment 6\Assesment 6\obj\Debug\Assesment 6.csproj.CoreCompileInputs.cache
+D:\day 6\Assesment 6\Assesment 6\obj\Debug\Assesment 6.exe
+D:\day 6\Assesment 6\Assesment 6\obj\Debug\Assesment 6.pdb
